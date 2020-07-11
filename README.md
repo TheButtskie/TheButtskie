@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Get in touch ✉️
 <ul>
-<li>On Twitter @ButtskieTV </li>
-<li>By email buttskiedoesbusiness@gmail.com </li>
-<li>On Steam </li>
- </ul>
+    <li>On Twitter <a href="https://twitter.com/buttskietv">@ButtskieTV</a></li>
+    <li>By email buttskiedoesbusiness@gmail.com </li>
+    <li>On <a href="https://steamcommunity.com/id/Buttskie">Steam</a> </li>
+</ul>
