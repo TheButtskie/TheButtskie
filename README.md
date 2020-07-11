@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Get in touch ✉️
-<ul>
-    <li>On Twitter <a href="https://twitter.com/buttskietv">@ButtskieTV</a></li>
-    <li>By email buttskiedoesbusiness@gmail.com </li>
-    <li>On <a href="https://steamcommunity.com/id/Buttskie">Steam</a> </li>
-</ul>
+📚 Being self-taught, I believe in life-long learning and knowledge sharing. 
+I also deeply believe in the open-source movement and try to give back to the community whenever I can.
+
+### My work 👨‍💻
+
+I am currently working on CSGO Memories. A project dedicated to creating a timeline of counter strike global offensive. 
+
+### Get in touch ✉️
+- On Twitter [@ButtskieTV](https://twitter.com/buttskietv)
+- By email [buttskiedoesbusiness@gmail.com](mailto:buttskiedoesbusiness@gmail.com)
+- On [Steam](https://steamcommunity.com/id/Buttskie)
