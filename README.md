@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Get in touch ✉️
-
-On Twitter @ButtskieTV
-
-By email buttskiedoesbusiness@gmail.com
-
-On Steam 
+<ul>
+<li>On Twitter @ButtskieTV </li>
+<li>By email buttskiedoesbusiness@gmail.com </li>
+<li>On Steam </li>
+ </ul>
