@@ -22,6 +22,8 @@ I also deeply believe in the open-source movement and try to give back to the co
 
 I am currently working on CSGO Memories. A project dedicated to creating a timeline of counter strike global offensive. 
 
+You can support my work on CSGO Memories by becoming a [sponsor](https://github.com/sponsors/TheButtskie).
+
 ### Get in touch ✉️
 - On Twitter [@ButtskieTV](https://twitter.com/buttskietv)
 - By email [buttskiedoesbusiness@gmail.com](mailto:buttskiedoesbusiness@gmail.com)
